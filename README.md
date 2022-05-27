@@ -32,6 +32,7 @@ Links: [Results (HTML page)](https://htmlpreview.github.io/?https://github.com/s
 * project made in collaboration with 3 classmates from PlantHealth Master's program
 * statistical methods applied: ANOVA, Shapiro, Kruskal-Wallis
 * visualisation methods: Kaplan-Meier curves, elipses, Heatmap , Correlation circle
+[](images/Kaplan-Meier%20curves.png)
 
 <br />
 <br />
