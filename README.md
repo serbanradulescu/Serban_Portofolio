@@ -30,6 +30,8 @@ Links: [Results (HTML page)](https://htmlpreview.github.io/?https://github.com/s
 
 * replicating the results of: [Effects of chronic exposure to thiamethoxam on larvae of the hoverfly Eristalis tenax (Diptera, Syrphidae)](https://peerj.com/articles/4258/) - a study on the effect of insecticides on pollinators
 * project made in collaboration with 3 classmates from PlantHealth Master's program
+* statistical methods applied: ANOVA, Shapiro, Kruskal-Wallis
+* visualisation methods: Kaplan-Meier curves, elipses, Heatmap , Correlation circle
 
 <br />
 <br />
