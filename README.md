@@ -28,3 +28,5 @@ To do:
 
 serban-petre@mail.com
 https://www.linkedin.com/in/serban-petre-radulescu-6b50121a2/
+
+![](images/Screenshot%202022-05-27%20at%2014.09.58.png)
