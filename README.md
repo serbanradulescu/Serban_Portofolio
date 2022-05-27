@@ -1,6 +1,3 @@
-# Serban's portofolio
-My Data analyst / Data scientist oriented portofolio.
-
 ### About me:
 Description to be added in the future
 
@@ -15,19 +12,15 @@ To do:
 * study the disease risk evolution in the last 70 years
 
 ### [Project 2: To be added](www.notyet.com)
-* bullet point 1
-* bullet point 2
-* more bullet points
+* in process of talking with the company about what I can and can not disclose about my project(s) here
 
 ### [Project 3: To be added](www.notyet.com)
-* bullet point 1
-* bullet point 2
-* more bullet points
+* blank for now
 
 ### Contact
 
 serban-petre@mail.com
 
-[LinkedId](https://www.linkedin.com/in/serban-petre-radulescu-6b50121a2/)
+[LinkedIn](https://www.linkedin.com/in/serban-petre-radulescu-6b50121a2/)
 
 ![](images/Screenshot%202022-05-27%20at%2014.09.58.png)
