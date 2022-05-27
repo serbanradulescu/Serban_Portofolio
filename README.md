@@ -1,5 +1,5 @@
 ### About me:
-Description to be added in the future
+A data scientist in becoming, specialized in Life Sciences, always looking for new ways to derive meaningful information from data in order to create a more sustainable and equitable future for everyone.
 
 
 
@@ -19,7 +19,7 @@ To do:
 * in process of talking with the company about what I can and can not disclose about my project(s) here
 
 ### [Project 3: To be added](www.notyet.com)
-* blank for now
+* same as project 2, a meeting is scheduled for June
 
 <br />
 
