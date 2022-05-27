@@ -25,11 +25,14 @@ To do:
 
 ## R
 
-### Project 4: Replicating the results of a published research (University project)
-[Results](https://htmlpreview.github.io/?https://github.com/serbanradulescu/dataproject/blob/main/Final-results.html)
-[Code - github repository](https://github.com/serbanradulescu/dataproject)
-* project made in collaboration with 3 classmates from PlantHealth Master's program
+### Project 4: Replicating the results of a published research (University project) 
+Links: [Results (HTML page)](https://htmlpreview.github.io/?https://github.com/serbanradulescu/dataproject/blob/main/Final-results.html) &nbsp; | &nbsp;  [Code (github repository)](https://github.com/serbanradulescu/dataproject)
+
 * replicating the results of: [Effects of chronic exposure to thiamethoxam on larvae of the hoverfly Eristalis tenax (Diptera, Syrphidae)](https://peerj.com/articles/4258/) - a study on the effect of insecticides on pollinators
+* project made in collaboration with 3 classmates from PlantHealth Master's program
+
+<br />
+<br />
 
 ### Contact
 
