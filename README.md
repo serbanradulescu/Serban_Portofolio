@@ -38,6 +38,11 @@ Figure a3.1. Cumulative survival of Eristalis tenax larvae when reared in substr
 <br />
 <br />
 
+### MOOC courses and certificates
+ * [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)
+ * [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9)
+ * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
+
 ### Contact
 
 serban-petre@mail.com
