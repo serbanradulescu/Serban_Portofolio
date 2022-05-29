@@ -32,7 +32,8 @@ Links: [Results (HTML page)](https://htmlpreview.github.io/?https://github.com/s
 * project made in collaboration with 3 classmates from PlantHealth Master's program
 * statistical methods applied: ANOVA, Shapiro, Kruskal-Wallis
 * visualisation methods: Kaplan-Meier curves, elipses, Heatmap , Correlation circle
-![](images/Kaplan-Meier_curves.jpg)
+
+<img src="images/Kaplan-Meier_curves.jpg" width="600" height="400">
 Figure a3.1. Cumulative survival of Eristalis tenax larvae when reared in substrate contaminated with five different concentrations of thiamethoxam, plus control
 
 <br />
