@@ -43,10 +43,41 @@ Figure a3.1. Cumulative survival of *Eristalis tenax* larvae when reared in subs
 <br />
 <br />
 
-### Courses and certificates
+## Courses and certificates
+<!---
+<details>
+<summary> [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q) </summary>
+<br>
+* [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)
+</details>
+
+<details>
+<summary> [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9) </summary>
+<br>
+[Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9)
+</details>
+
+<details>
+<summary> [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q) </summary>
+<br>
+[Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
+</details>
+-->
  * [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)
  * [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9)
  * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
+
+### Areas of improvements
+It takes a lot of strength to admit your weaknesses. However, admitting your shortcomings is the first step to self-improvement.
+
+* technical
+  * take more advantage of python packages
+  * improve git commit etiquette
+  * better markdown skills ( this pages serves as an example )
+
+* soft-skills
+  * presenting progress to non-technical stakeholders
+
 
 ### Contact
 
