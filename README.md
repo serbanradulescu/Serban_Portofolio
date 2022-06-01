@@ -45,37 +45,50 @@ Figure a3.1. Cumulative survival of *Eristalis tenax* larvae when reared in subs
 
 ## Courses and certificates
 
-<details> <summary>  SQL for Datascience  </summary>
-<br>
+### [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)  
+
+<details><summary>Details</summary>
+
+* Identify a subset of data needed from a column or set of columns and write a SQL query to limit to those results.
+
+* Use SQL commands to filter, sort, and summarize data.
+
+* Create an analysis table from multiple queries using the UNION operator.
+
+* Manipulate strings, dates, & numeric data using functions to integrate data from different sources into fields with the correct format for analysis.
+
+</details> 
  
-Diploma and more details: [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)
+### [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9) 
+
+<details><summary>Details</summary>
+
+* Describe how machine learning is different than descriptive statistics
+
+* Create and evaluate data clusters
+
+* Explain different approaches for creating predictive models
+
+* Build features that meet analysis needs
  
 </details>
 
+### [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
 
+<details><summary>Details</summary>
 
-<details> <summary>  Applied Machine Learning in Python  </summary>
- <br>
- 
-Diploma and more details: [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9)
- 
+* Describe what makes a good or bad visualization
+
+* Understand best practices for creating basic charts
+
+* Identify the functions that are best for particular problems
+
+* Create a visualization using matplotlb
+
+<details><summary>More</summary> 
 </details>
-
-
-
-<details> <summary>  Applied Plotting, Charting & Data Representation in Python  </summary>
- <br>
- 
-Diploma and more details: [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
- 
 </details>
-
-<!---
- * [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)
- * [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9)
- * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
---->
-
+ 
 <br>
 <br>
 
@@ -91,6 +104,8 @@ It takes a lot of strength to admit your weaknesses. However, admitting your sho
   * presenting progress to non-technical stakeholders
   * delegating tasks to people
 
+<br>
+<br>
 
 ### Contact
 
