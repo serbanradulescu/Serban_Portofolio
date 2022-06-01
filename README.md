@@ -44,32 +44,41 @@ Figure a3.1. Cumulative survival of *Eristalis tenax* larvae when reared in subs
 <br />
 
 ## Courses and certificates
+
+<details> <summary>  SQL for Datascience  </summary>
+<br>
+ 
+Diploma and more details: [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)
+</details>
+
+
+
+<details> <summary>  Applied Machine Learning in Python  </summary>
+ <br>
+ 
+Diploma and more details: [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9)
+</details>
+
+
+
+<details> <summary>  Applied Plotting, Charting & Data Representation in Python  </summary>
+ <br>
+ 
+Diploma and more details: [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
+</details>
+
 <!---
-<details>
-<summary> [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q) </summary>
-<br>
-* [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)
-</details>
-
-<details>
-<summary> [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9) </summary>
-<br>
-[Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9)
-</details>
-
-<details>
-<summary> [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q) </summary>
-<br>
-[Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
-</details>
--->
  * [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)
  * [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9)
  * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
+--->
+
+<br>
+<br>
 
 ### Areas of improvements
-It takes a lot of strength to admit your weaknesses. However, admitting your shortcomings is the first step to self-improvement.
 
+It takes a lot of strength to admit your weaknesses. However, admitting your shortcomings is the first step to self-improvement.
 * technical
   * take more advantage of python packages
   * improve git commit etiquette
@@ -77,12 +86,12 @@ It takes a lot of strength to admit your weaknesses. However, admitting your sho
 
 * soft-skills
   * presenting progress to non-technical stakeholders
+  * delegating tasks to people
 
 
 ### Contact
 
-serban-petre@mail.com
- 
-[LinkedIn](https://www.linkedin.com/in/serban-petre-radulescu-6b50121a2/)
+e-mail: s.radulescu@protonmail.com  
+LinkedIn: [Serban Radulescu](https://www.linkedin.com/in/serban-petre-radulescu-6b50121a2/)     
 
 ![](images/Screenshot%202022-05-27%20at%2014.09.58.png)
