@@ -49,6 +49,7 @@ Figure a3.1. Cumulative survival of *Eristalis tenax* larvae when reared in subs
 <br>
  
 Diploma and more details: [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)
+ 
 </details>
 
 
@@ -57,6 +58,7 @@ Diploma and more details: [SQL for Datascience](https://www.coursera.org/account
  <br>
  
 Diploma and more details: [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9)
+ 
 </details>
 
 
@@ -65,6 +67,7 @@ Diploma and more details: [Applied Machine Learning in Python](https://www.cours
  <br>
  
 Diploma and more details: [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
+ 
 </details>
 
 <!---
