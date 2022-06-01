@@ -43,10 +43,11 @@ Figure a3.1. Cumulative survival of *Eristalis tenax* larvae when reared in subs
 <br />
 <br />
 
-## Courses and certificates
+### Courses and certificates
 
-### [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)  
+* [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)  
 
+<!--
 <details><summary>Details</summary>
 
 * Identify a subset of data needed from a column or set of columns and write a SQL query to limit to those results.
@@ -58,9 +59,9 @@ Figure a3.1. Cumulative survival of *Eristalis tenax* larvae when reared in subs
 * Manipulate strings, dates, & numeric data using functions to integrate data from different sources into fields with the correct format for analysis.
 
 </details> 
- 
-### [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9) 
-
+ -->
+* [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9) 
+<!--
 <details><summary>Details</summary>
 
 * Describe how machine learning is different than descriptive statistics
@@ -72,9 +73,13 @@ Figure a3.1. Cumulative survival of *Eristalis tenax* larvae when reared in subs
 * Build features that meet analysis needs
  
 </details>
+-->
+* [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
 
-### [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
 
+* Google Data Analytics Professional Certificate - [WORK IN PROGRESS]
+
+<!--
 <details><summary>Details</summary>
 
 * Describe what makes a good or bad visualization
@@ -88,9 +93,12 @@ Figure a3.1. Cumulative survival of *Eristalis tenax* larvae when reared in subs
 <details><summary>More</summary> 
 </details>
 </details>
+-->
  
 <br>
 <br>
+
+
 
 ### Areas of improvements
 
