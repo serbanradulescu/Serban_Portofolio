@@ -101,7 +101,8 @@ Figure a3.1. Cumulative survival of *Eristalis tenax* larvae when reared in subs
 
 
 ### Areas of improvements
-
+<details><summary>Click for details</summary>
+  
 It takes a lot of strength to admit your weaknesses. However, admitting your shortcomings is the first step to self-improvement.
 * technical
   * take more advantage of python packages
@@ -111,6 +112,7 @@ It takes a lot of strength to admit your weaknesses. However, admitting your sho
 * soft-skills
   * presenting progress to non-technical stakeholders
   * delegating tasks to people
+</details>
 
 <br>
 <br>
