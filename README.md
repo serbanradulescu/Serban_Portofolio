@@ -37,8 +37,9 @@ Links: [Results (HTML page)](https://htmlpreview.github.io/?https://github.com/s
 * statistical methods applied: ANOVA, Shapiro, Kruskal-Wallis
 * visualisation methods: Kaplan-Meier curves, elipses, Heatmap , Correlation circle
 
-<img src="images/Kaplan-Meier_curves.jpg" width="600" height="400">
-Figure a3.1. Cumulative survival of *Eristalis tenax* larvae when reared in substrate contaminated with five different concentrations of thiamethoxam, plus control
+<img src="images/proj4_pca.png" width="600" height="400">
+Fig. 2.3: Correlation circle between the 7 different behaviours. Variables grouped together are corelated, while the arrows closer to the circle are better explained by the two dimensions of the PCA. (F,W correlated; S, GR correlated; M-PR negatively correlated but PR is not well explained by the two dimensions)
+Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - feeding(nutrition), M - moving
 
 <br />
 <br />
