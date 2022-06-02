@@ -62,7 +62,9 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 </details> 
  -->
 * [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9) 
+  
 <!--
+  
 <details><summary>Details</summary>
 
 * Describe how machine learning is different than descriptive statistics
@@ -74,7 +76,9 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 * Build features that meet analysis needs
  
 </details>
+  
 -->
+
 * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
 
 
@@ -102,9 +106,11 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 
 
 ### Areas of improvements
+
 <details><summary>Click for details</summary>
   
 It takes a lot of strength to admit your weaknesses. However, admitting your shortcomings is the first step to self-improvement.
+ 
 * technical
   * take more advantage of python packages
   * improve git commit etiquette
