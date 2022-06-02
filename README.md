@@ -17,7 +17,7 @@ To do:
 * study the disease risk evolution in the last 70 years
 
 
-<img src="images/proj4_map1950.png" width="600" height="400">
+<img src="images/proj4_map1950.png" >
 
 ### Project 2: Automatizing imports from customers' agricultural enterprise [private repository]
 * importing different types of files (shp, csv, iso-xml etc.) and converting them into the internal structure
