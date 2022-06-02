@@ -16,6 +16,9 @@ To do:
 * apply different leaf wetness models on the datasets
 * study the disease risk evolution in the last 70 years
 
+
+<img src="images/proj4_map1950.png" width="600" height="400">
+
 ### Project 2: Automatizing imports from customers' agricultural enterprise [private repository]
 * importing different types of files (shp, csv, iso-xml etc.) and converting them into the internal structure
 * improving the internal structure for storing and accessing data
@@ -38,6 +41,7 @@ Links: [Results (HTML page)](https://htmlpreview.github.io/?https://github.com/s
 * visualisation methods: Kaplan-Meier curves, elipses, Heatmap , Correlation circle
 
 <img src="images/proj4_pca.png" width="600" height="400">
+
 Fig. 2.3: Correlation circle between the 7 different behaviours. Variables grouped together are corelated, while the arrows closer to the circle are better explained by the two dimensions of the PCA. (F,W correlated; S, GR correlated; M-PR negatively correlated but PR is not well explained by the two dimensions)
 Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - feeding(nutrition), M - moving
 
