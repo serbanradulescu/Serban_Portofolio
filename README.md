@@ -107,8 +107,6 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 
 ### Areas of improvements
 
-<details><summary>Click for details</summary>  
-   
 It takes a lot of strength to admit your weaknesses. However, admitting your shortcomings is the first step to self-improvement.
  
 * technical
@@ -119,8 +117,6 @@ It takes a lot of strength to admit your weaknesses. However, admitting your sho
 * soft-skills
   * presenting progress to non-technical stakeholders
   * delegating tasks to people  
-    
-</details>
 
 <br>
 <br>
