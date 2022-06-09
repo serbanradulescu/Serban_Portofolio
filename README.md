@@ -30,8 +30,11 @@ To do:
  
 
  
-### [Project 3: To be added](www.notyet.com)
-* web scraping project, will be added soon
+### [Project 3: Web scraping and API accessing FAO EPPO](https://github.com/serbanradulescu/web_scraping_and_API_accessing_FAO_EPPO)
+
+* web scrape a table with crop names (in English and latin) from FAO website
+* get the EPPO code from the API using the latin name
+* merge all the data in a dataframe, export it as a csv
 
 <br />
 
