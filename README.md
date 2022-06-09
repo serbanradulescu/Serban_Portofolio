@@ -25,6 +25,11 @@ To do:
 * creating a database and matching imported objects trough feature engineering
 * keeping the database up to date while improving the matching efficacy
 
+
+<img src="images/proj2_structure.png" > 
+ 
+
+ 
 ### [Project 3: To be added](www.notyet.com)
 * web scraping project, will be added soon
 
