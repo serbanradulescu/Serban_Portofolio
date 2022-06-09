@@ -19,6 +19,8 @@ To do:
 
 <img src="images/proj4_map1950.png" >
 
+<br />
+
 ### Project 2: Automatizing imports from customers' agricultural enterprise [private repository]
 * importing different types of files (shp, csv, iso-xml etc.) and converting them into the internal structure
 * improving the internal structure for storing and accessing data
@@ -28,13 +30,15 @@ To do:
 
 <img src="images/proj2_structure.png" > 
  
-
+<br />
  
 ### [Project 3: Web scraping and API accessing FAO EPPO](https://github.com/serbanradulescu/web_scraping_and_API_accessing_FAO_EPPO)
 
 * web scrape a table with crop names (in English and latin) from FAO website
 * get the EPPO code from the API using the latin name
 * merge all the data in a dataframe, export it as a csv
+
+<img src="images/proj4_csv.png" > 
 
 <br />
 
