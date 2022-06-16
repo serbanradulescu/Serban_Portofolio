@@ -98,6 +98,9 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
 
 
+* [Statistics with Python](https://www.coursera.org/account/accomplishments/verify/AKN28MBU38TL) 
+
+
 * Google Data Analytics Professional Certificate - [WORK IN PROGRESS]
 
 <!--
