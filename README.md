@@ -38,7 +38,7 @@ To do:
 * get the EPPO code from the API using the latin name
 * merge all the data in a dataframe, export it as a csv
 
-<img src="images/proj4_csv.png" > 
+<img src="images/proj3_csv.png" > 
 
 <br />
 
@@ -145,4 +145,4 @@ It takes a lot of strength to admit your weaknesses. However, admitting your sho
 e-mail: s.radulescu@protonmail.com  
 LinkedIn: [Serban Radulescu](https://www.linkedin.com/in/serban-petre-radulescu-6b50121a2/)     
 
-![](images/Screenshot%202022-05-27%20at%2014.09.58.png)
+![](images/for_hr.png)
