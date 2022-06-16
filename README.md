@@ -17,7 +17,7 @@ To do:
 * study the disease risk evolution in the last 70 years
 
 
-<img src="images/proj4_map1950.png" >
+<img src="images/proj1_septoria.png" >
 
 <br />
 
