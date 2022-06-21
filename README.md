@@ -6,7 +6,7 @@ A data scientist in becoming, specialized in Life Sciences, always looking for n
 ## Python
 
 ### Project 1: Effects of climate change on plant disease enviornmental parameters (Master's Thesis)
-Links: &nbsp; [Interactive app (python Dash)](https://planthealth2022-serban.herokuapp.com/) &nbsp; | &nbsp;[Results (HTML page)](https://github.com/serbanradulescu/master_thesis/blob/main/project.ipynb) &nbsp; | &nbsp;  [Code (github repository)](https://github.com/serbanradulescu/master_thesis)
+Links: &nbsp; [Interactive app (python Dash)](https://planthealth2022-serban.herokuapp.com/) &nbsp; | &nbsp;[Results (jupyter notebook)](https://github.com/serbanradulescu/master_thesis/blob/main/project.ipynb) &nbsp; | &nbsp;  [Code (github)](https://github.com/serbanradulescu/master_thesis)
 
 <p align="center"> [WORK IN PROGRESS] </p>
 
