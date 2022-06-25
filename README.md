@@ -76,6 +76,7 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 <br />
 <br />
 
+## Additional information
 ### Courses and certificates
 
 * [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)  
