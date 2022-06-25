@@ -62,6 +62,14 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 <br />
 <br />
 
+## SQL
+### Project 5: Create and maintain a database for agriculture products, processes and crops (SQLite) [private repository]
+
+* create a relational database that would correspond to company's needs
+* import and adapt the data from currently in use data formats (csv, json) while setting the right foreign keys
+* implement the database in production (Rshiny app) without disturbing the current functionalities of the product
+
+
 ### Courses and certificates
 
 * [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)  
