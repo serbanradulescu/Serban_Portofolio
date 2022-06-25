@@ -70,6 +70,12 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 * implement the database in production (Rshiny app) without disturbing the current functionalities of the product
 
 
+<img src="images/proj5_db_browser.jpeg" width="200" height="200">
+
+ 
+<br />
+<br />
+
 ### Courses and certificates
 
 * [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)  
