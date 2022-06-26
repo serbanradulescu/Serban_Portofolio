@@ -10,14 +10,9 @@ Links: &nbsp; [Interactive app (python Dash)](https://planthealth2022-serban.her
 
 <p align="center"> [WORK IN PROGRESS] </p>
 
-* accessing publicly available weather data for Germany (1950 - present) trough an API
-* choosing, cleaning, selecting needed datasets
-* visualising position of different weather station
-
-To do:
-* apply different leaf wetness models on the datasets
-* study the disease risk evolution in the last 70 years
-
+* access publicly available weather data for Germany (1950 - present) trough a REST API
+* apply different wetness models on the datasets
+* create a python Dash to communicate the results of the study (see in "Links")
 
 <img src="images/proj1_septoria.png" >
 
@@ -66,7 +61,7 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 ### Project 5: Create and maintain a database for agriculture products, processes and crops (SQLite) [private repository]
 
 * create a relational database that would correspond to present and future needs
-* import and adapt the data from currently in use data formats (csv, json) while setting the right foreign keys
+* import and adapt the data from data formats currently in use (csv, json) while setting the right primary and foreign keys for tables
 * implement the database in production (Rshiny app) without disturbing the current functionalities of the product
 
 
