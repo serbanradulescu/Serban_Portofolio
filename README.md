@@ -14,7 +14,7 @@ Links: &nbsp; [Interactive app (python Dash)](https://planthealth2022-serban.her
 * apply different wetness models on the datasets
 * create a python Dash to communicate the results of the study (see in "Links")
 
-<img src="images/proj1_septoria.png" >
+<img src="images/proj1_septoria.png"  >
 
 <br />
 
@@ -25,8 +25,13 @@ Links: &nbsp; [Interactive app (python Dash)](https://planthealth2022-serban.her
 * keeping the database up to date while improving the matching efficacy
 
 
-<img src="images/proj2_structure.png" > 
+<br />
+<br />
+
+<img src="images/proj2_structure.png" style="width:auto; height:250px" > 
  
+
+<br /> 
 <br />
  
 ### [Project 3: Web scraping and API accessing FAO EPPO](https://github.com/serbanradulescu/web_scraping_and_API_accessing_FAO_EPPO)
@@ -35,8 +40,11 @@ Links: &nbsp; [Interactive app (python Dash)](https://planthealth2022-serban.her
 * get the EPPO code from the API using the latin name
 * merge all the data in a dataframe, export it as a csv
 
+<br />
+
 <img src="images/proj3_gif_fast.gif" width="750" height="475"> 
 
+<br />
 <br />
 
 ## R
@@ -49,7 +57,7 @@ Links: [Results (HTML page)](https://htmlpreview.github.io/?https://github.com/s
 * statistical methods applied: ANOVA, Shapiro, Kruskal-Wallis
 * visualisation methods: Kaplan-Meier curves, elipses, Heatmap , Correlation circle
 
-<img src="images/proj4_pca.png" width="600" height="400">
+<img src="images/proj4_pca.png" style="width:auto; height:480px" >
 
 Fig. 2.3: Correlation circle between the 7 different behaviours. Variables grouped together are corelated, while the arrows closer to the circle are better explained by the two dimensions of the PCA. (F,W correlated; S, GR correlated; M-PR negatively correlated but PR is not well explained by the two dimensions)
 Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - feeding(nutrition), M - moving
@@ -65,7 +73,7 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 * implement the database in production (Rshiny app) without disturbing the current functionalities of the product
 
 
-<img src="images/proj5_db_browser.jpeg" width="200" height="200">
+<img src="images/proj5_db_browser.jpeg" style="width:auto; height:200px" >
 
  
 <br />
