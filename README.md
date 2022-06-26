@@ -35,7 +35,7 @@ Links: &nbsp; [Interactive app (python Dash)](https://planthealth2022-serban.her
 * get the EPPO code from the API using the latin name
 * merge all the data in a dataframe, export it as a csv
 
-<img src="images/proj3_csv.png" > 
+<img src="images/proj3_gif.gif" width="700" height="450"> 
 
 <br />
 
