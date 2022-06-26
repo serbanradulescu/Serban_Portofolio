@@ -158,6 +158,7 @@ It takes a lot of strength to admit your weaknesses. However, admitting your sho
 * technical
   * take more advantage of python packages
   * improve git commit etiquette
+  * R syntax (as I mostly code in python, R is known to me but the syntax does not come as fluent; but I am taking more R projects to fix this)
   * better markdown skills ( this pages serves as an example )
 
 * soft-skills
