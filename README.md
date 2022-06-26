@@ -14,6 +14,8 @@ Links: &nbsp; [Interactive app (python Dash)](https://planthealth2022-serban.her
 * apply different wetness models on the datasets
 * create a python Dash to communicate the results of the study (see in "Links")
 
+
+
 <img src="images/proj1_septoria.png"  >
 
 <br />
@@ -28,8 +30,9 @@ Links: &nbsp; [Interactive app (python Dash)](https://planthealth2022-serban.her
 <br />
 <br />
 
+<p align="center">
 <img src="images/proj2_structure.png" style="width:auto; height:250px" > 
- 
+</p> 
 
 <br /> 
 <br />
@@ -42,8 +45,10 @@ Links: &nbsp; [Interactive app (python Dash)](https://planthealth2022-serban.her
 
 <br />
 
+<p align="center">
 <img src="images/proj3_gif_fast.gif" width="750" height="475"> 
-
+</p>
+ 
 <br />
 <br />
 
@@ -57,8 +62,10 @@ Links: [Results (HTML page)](https://htmlpreview.github.io/?https://github.com/s
 * statistical methods applied: ANOVA, Shapiro, Kruskal-Wallis
 * visualisation methods: Kaplan-Meier curves, elipses, Heatmap , Correlation circle
 
+<p align="center">
 <img src="images/proj4_pca.png" style="width:auto; height:480px" >
-
+</p>
+ 
 Fig. 2.3: Correlation circle between the 7 different behaviours. Variables grouped together are corelated, while the arrows closer to the circle are better explained by the two dimensions of the PCA. (F,W correlated; S, GR correlated; M-PR negatively correlated but PR is not well explained by the two dimensions)
 Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - feeding(nutrition), M - moving
 
@@ -72,9 +79,9 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 * import and adapt the data from data formats currently in use (csv, json) while setting the right primary and foreign keys for tables
 * implement the database in production (Rshiny app) without disturbing the current functionalities of the product
 
-
+<p align="center">
 <img src="images/proj5_db_browser.jpeg" style="width:auto; height:200px" >
-
+</p>
  
 <br />
 <br />
