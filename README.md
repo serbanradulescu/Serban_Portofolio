@@ -171,6 +171,4 @@ It takes a lot of strength to admit your weaknesses. However, admitting your sho
 ### Contact
 
 e-mail: s.radulescu@protonmail.com  
-LinkedIn: [Serban Radulescu](https://www.linkedin.com/in/serban-petre-radulescu-6b50121a2/)     
-
-![](images/for_hr.png)
+LinkedIn: [Serban Radulescu](https://www.linkedin.com/in/serban-petre-radulescu-6b50121a2/)    
