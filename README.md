@@ -89,6 +89,8 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 ## Additional information
 ### Courses and certificates
 
+* [Understanding TypeScript - 2023](https://www.udemy.com/certificate/UC-75e3a7f5-3605-45e5-8b42-5515b9fc0859/)
+
 * [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)  
 
 <!--
