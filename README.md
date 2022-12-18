@@ -91,38 +91,11 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 
 * [Understanding TypeScript - 2023](https://www.udemy.com/certificate/UC-75e3a7f5-3605-45e5-8b42-5515b9fc0859/)
 
+* [TypeScript for Professionals -2022 Edition](https://www.udemy.com/certificate/UC-dc9569e2-37dc-4009-ad94-c1b3b03908e7/)
+
 * [SQL for Datascience](https://www.coursera.org/account/accomplishments/verify/KF9V6CH5GP6Q)  
 
-<!--
-<details><summary>Details</summary>
-
-* Identify a subset of data needed from a column or set of columns and write a SQL query to limit to those results.
-
-* Use SQL commands to filter, sort, and summarize data.
-
-* Create an analysis table from multiple queries using the UNION operator.
-
-* Manipulate strings, dates, & numeric data using functions to integrate data from different sources into fields with the correct format for analysis.
-
-</details> 
- -->
 * [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/YA7S96MHRFN9) 
-  
-<!--
-  
-<details><summary>Details</summary>
-
-* Describe how machine learning is different than descriptive statistics
-
-* Create and evaluate data clusters
-
-* Explain different approaches for creating predictive models
-
-* Build features that meet analysis needs
- 
-</details>
-  
--->
 
 * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/9XYPE8NM8C5T)
 
@@ -132,21 +105,6 @@ Keys: S - stationary, GR - grooming, W - walking, F - flying, PR - probing, N - 
 
 * Google Data Analytics Professional Certificate - [WORK IN PROGRESS]
 
-<!--
-<details><summary>Details</summary>
-
-* Describe what makes a good or bad visualization
-
-* Understand best practices for creating basic charts
-
-* Identify the functions that are best for particular problems
-
-* Create a visualization using matplotlb
-
-<details><summary>More</summary> 
-</details>
-</details>
--->
  
 <br>
 <br>
