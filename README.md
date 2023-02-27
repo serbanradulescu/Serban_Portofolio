@@ -1,5 +1,6 @@
 ### About me:
-A data scientist in becoming, specialized in Life Sciences, always looking for new ways to derive meaningful information from data in order to create a more sustainable and equitable future for everyone.
+
+With a passion for sustainability and a deep understanding of Life Sciences , I am committed to using data to create a better future for everyone. Whether it's by identifying new areas of innovation, developing predictive models to optimize resource use, or using data-driven insights to promote social and environmental responsibility, I am always looking for new ways to make a positive impact through data science.
 
 
 
